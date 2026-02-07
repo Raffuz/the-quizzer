@@ -1,0 +1,315 @@
+{
+  "informatica": [
+    {
+      "id": 1,
+      "question": "Qual è il linguaggio di programmazione più utilizzato per lo sviluppo web front-end?",
+      "answers": [
+        { "text": "JavaScript", "correct": true },
+        { "text": "Python", "correct": false },
+        { "text": "Java", "correct": false },
+        { "text": "C++", "correct": false }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Cosa significa HTML?",
+      "answers": [
+        { "text": "HyperText Markup Language", "correct": true },
+        { "text": "High-Level Text Management Language", "correct": false },
+        { "text": "Home Tool Markup Language", "correct": false },
+        { "text": "Hyperlinks and Text Markup Language", "correct": false }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Quale di questi NON è un sistema operativo?",
+      "answers": [
+        { "text": "Linux", "correct": false },
+        { "text": "Oracle", "correct": true },
+        { "text": "Windows", "correct": false },
+        { "text": "macOS", "correct": false }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Cosa significa 'CPU'?",
+      "answers": [
+        { "text": "Central Processing Unit", "correct": true },
+        { "text": "Computer Personal Unit", "correct": false },
+        { "text": "Central Program Utility", "correct": false },
+        { "text": "Common Processing Unit", "correct": false }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Quale protocollo viene utilizzato per trasferire file su Internet?",
+      "answers": [
+        { "text": "FTP", "correct": true },
+        { "text": "SMTP", "correct": false },
+        { "text": "POP3", "correct": false },
+        { "text": "IMAP", "correct": false }
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Cos'è un database relazionale?",
+      "answers": [
+        {
+          "text": "Un database che organizza i dati in tabelle con relazioni",
+          "correct": true
+        },
+        { "text": "Un database che usa solo file XML", "correct": false },
+        { "text": "Un database che funziona solo su cloud", "correct": false },
+        { "text": "Un database per i social network", "correct": false }
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Quale di questi è un framework JavaScript?",
+      "answers": [
+        { "text": "React", "correct": true },
+        { "text": "Django", "correct": false },
+        { "text": "Laravel", "correct": false },
+        { "text": "Flask", "correct": false }
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Cosa significa 'API'?",
+      "answers": [
+        { "text": "Application Programming Interface", "correct": true },
+        { "text": "Advanced Program Integration", "correct": false },
+        { "text": "Automated Processing Interface", "correct": false },
+        { "text": "Application Process Interaction", "correct": false }
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Quale linguaggio viene utilizzato per stilizzare le pagine web?",
+      "answers": [
+        { "text": "CSS", "correct": true },
+        { "text": "JavaScript", "correct": false },
+        { "text": "PHP", "correct": false },
+        { "text": "SQL", "correct": false }
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Cos'è Git?",
+      "answers": [
+        { "text": "Un sistema di controllo versione", "correct": true },
+        { "text": "Un linguaggio di programmazione", "correct": false },
+        { "text": "Un database", "correct": false },
+        { "text": "Un browser web", "correct": false }
+      ]
+    }
+  ],
+  "musica": [
+    {
+      "id": 1,
+      "question": "Chi ha composto 'La Primavera' dalle Quattro Stagioni?",
+      "answers": [
+        { "text": "Antonio Vivaldi", "correct": true },
+        { "text": "Wolfgang Amadeus Mozart", "correct": false },
+        { "text": "Ludwig van Beethoven", "correct": false },
+        { "text": "Johann Sebastian Bach", "correct": false }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Quante corde ha una chitarra classica?",
+      "answers": [
+        { "text": "6", "correct": true },
+        { "text": "4", "correct": false },
+        { "text": "5", "correct": false },
+        { "text": "7", "correct": false }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Quale nota segue il 'Do' nella scala musicale?",
+      "answers": [
+        { "text": "Re", "correct": true },
+        { "text": "Mi", "correct": false },
+        { "text": "Fa", "correct": false },
+        { "text": "Si", "correct": false }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Chi è l'autore dell'opera 'La Traviata'?",
+      "answers": [
+        { "text": "Giuseppe Verdi", "correct": true },
+        { "text": "Giacomo Puccini", "correct": false },
+        { "text": "Gioachino Rossini", "correct": false },
+        { "text": "Gaetano Donizetti", "correct": false }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Quale strumento è considerato il 're degli strumenti'?",
+      "answers": [
+        { "text": "Pianoforte", "correct": true },
+        { "text": "Organo", "correct": true },
+        { "text": "Violino", "correct": false },
+        { "text": "Flauto", "correct": false }
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Quante note ci sono in un'ottava?",
+      "answers": [
+        { "text": "8", "correct": true },
+        { "text": "7", "correct": false },
+        { "text": "12", "correct": false },
+        { "text": "10", "correct": false }
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Chi ha composto 'La Sinfonia n. 9 (Corale)'?",
+      "answers": [
+        { "text": "Ludwig van Beethoven", "correct": true },
+        { "text": "Franz Schubert", "correct": false },
+        { "text": "Johannes Brahms", "correct": false },
+        { "text": "Gustav Mahler", "correct": false }
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Quale di questi NON è uno strumento a fiato?",
+      "answers": [
+        { "text": "Violino", "correct": true },
+        { "text": "Flauto", "correct": false },
+        { "text": "Clarinetto", "correct": false },
+        { "text": "Tromba", "correct": false }
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Cosa significa 'Allegro' in musica?",
+      "answers": [
+        { "text": "Tempo veloce", "correct": true },
+        { "text": "Tempo lento", "correct": false },
+        { "text": "Forte", "correct": false },
+        { "text": "Piano", "correct": false }
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Chi è conosciuto come il 'Re del Rock and Roll'?",
+      "answers": [
+        { "text": "Elvis Presley", "correct": true },
+        { "text": "Chuck Berry", "correct": false },
+        { "text": "Little Richard", "correct": false },
+        { "text": "Jerry Lee Lewis", "correct": false }
+      ]
+    }
+  ],
+
+  "calcio": [
+    {
+      "id": 1,
+      "question": "Quanti giocatori ci sono in campo per squadra in una partita di calcio (escluso l'arbitro)?",
+      "answers": [
+        { "text": "11", "correct": true },
+        { "text": "10", "correct": false },
+        { "text": "12", "correct": false },
+        { "text": "9", "correct": false }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Quanto dura una partita di calcio regolamentare (senza recupero)?",
+      "answers": [
+        { "text": "90 minuti", "correct": true },
+        { "text": "80 minuti", "correct": false },
+        { "text": "100 minuti", "correct": false },
+        { "text": "60 minuti", "correct": false }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Quale cartellino comporta espulsione diretta?",
+      "answers": [
+        { "text": "Rosso", "correct": true },
+        { "text": "Giallo", "correct": false },
+        { "text": "Verde", "correct": false },
+        { "text": "Blu", "correct": false }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Quali competizioni sono tornei per club?",
+      "answers": [
+        { "text": "UEFA Champions League", "correct": true },
+        { "text": "UEFA Europa League", "correct": true },
+        { "text": "Coppa del Mondo FIFA", "correct": false },
+        { "text": "Campionato Europeo (UEFA EURO)", "correct": false }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Quali ruoli sono tipicamente difensivi?",
+      "answers": [
+        { "text": "Difensore centrale", "correct": true },
+        { "text": "Terzino", "correct": true },
+        { "text": "Trequartista", "correct": false },
+        { "text": "Centravanti", "correct": false }
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Che cos'è un 'rigore'?",
+      "answers": [
+        { "text": "Un calcio di punizione dal dischetto", "correct": true },
+        { "text": "Un calcio d'angolo", "correct": false },
+        { "text": "Una rimessa laterale", "correct": false },
+        { "text": "Un fuorigioco", "correct": false }
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Quale zona del campo è chiamata comunemente 'area di rigore'?",
+      "answers": [
+        {
+          "text": "L'area davanti alla porta delimitata dalle linee",
+          "correct": true
+        },
+        { "text": "Il cerchio di centrocampo", "correct": false },
+        { "text": "La zona vicino alle bandierine", "correct": false },
+        { "text": "La panchina", "correct": false }
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Quali competizioni sono tornei per nazionali?",
+      "answers": [
+        { "text": "Coppa del Mondo FIFA", "correct": true },
+        { "text": "Campionato Europeo (UEFA EURO)", "correct": true },
+        { "text": "Serie A", "correct": false },
+        { "text": "UEFA Champions League", "correct": false }
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Da quale ripresa non è possibile segnare direttamente un gol (senza che tocchi nessuno)?",
+      "answers": [
+        { "text": "Rimessa laterale", "correct": true },
+        { "text": "Calcio di rigore", "correct": false },
+        { "text": "Calcio di punizione", "correct": false },
+        { "text": "Calcio d'angolo", "correct": false }
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Quali sono modi validi per segnare un gol?",
+      "answers": [
+        { "text": "Di testa", "correct": true },
+        { "text": "Con un calcio di punizione", "correct": true },
+        { "text": "Di mano (non portiere)", "correct": false },
+        { "text": "Direttamente da rimessa laterale", "correct": false }
+      ]
+    }
+  ]
+}
